@@ -1,0 +1,10 @@
+pais: "mdchile"
+titulo: "mdconstit1980"
+subtitulo: ""
+fecha: ""
+descripcion: ""
+keywords: "keyword 1, "keyword 2", "keyword 3", "keyword 4"
+largo_capitulos: 0
+largo_articulos: 00
+colofon: ""
+redactores: "", ""
